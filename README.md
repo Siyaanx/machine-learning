@@ -17,7 +17,7 @@ Loading the libraries and importing datasets. Pandas is used in reading the csv 
 **STEP 2**
 We check for missing values. 
 
-****Observation: **** From the "booking-of hotel" dataset, some data values are missing in some columns. 
+****Observation:**** From the "booking-of hotel" dataset, some data values are missing in some columns. 
 
 **STEP 3** 
 Now, we visualize the missing values.
