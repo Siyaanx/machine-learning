@@ -29,6 +29,8 @@ The actual visualization of the dataset answering specific questions.
 
 ***1: Checking for the correlation between the variables***
 
+Fiding the correlation between the variables indicates the extent to which they are related to one another. For instance, from the headmap showing the correlation, the extent to which hotel is related to the stays_in_week_nights is ...
+
 ***2: Visualizing the overall number of stays in weekend nights in each hotel using barplot***
 
 ***3: Visualizing the overall number of stays in week nights in each hotel using barplot.***
