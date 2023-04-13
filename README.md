@@ -26,8 +26,11 @@ Now, we visualize the missing values.
 The actual visualization of the dataset answering specific questions.
 
 ***1: Checking for the correlation between the variables***
+
 ***2: Visualizing the overall number of stays in weekend nights in each hotel using barplot***
+
 ***3: Visualizing the overall number of stays in week nights in each hotel using barplot.***
+
 ***4: Plotting scatterplot of stays in weekend nights against lead time.***
 ***5: Visualizing the number of stays in weekend nights for each hotel using boxplot.***
 ***6: Visualizing the number of stays in week nights for each hotel using boxplot
