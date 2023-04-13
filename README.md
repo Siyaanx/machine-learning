@@ -1,5 +1,5 @@
 # Class Project : Exploratory and explanatory analysis
-This is a class project to carry out explanatory and analysis of the dataset contained in the csv file marked "" here.
+This is a class project to carry out exploratory and explanatory analysis of the dataset contained in the csv file marked "" here.
 
 # Preamble
 The hotel-booking datasets csv file is uploaded here and it awaits Exploratory Data Analysis in the open-source web application.
