@@ -35,8 +35,8 @@ The actual visualization of the dataset answering specific questions.
 
 ***5: Visualizing the number of stays in weekend nights for each hotel using boxplot.***
 
-***6: Visualizing the number of stays in week nights for each hotel using boxplot
-
+***6: Visualizing the number of stays in week nights for each hotel using boxplot.***
+.
 ***7: To know the number of country in the dataset.***
 
 ***8: Visualizing the relationship between country and lead time (the time between the initiation 
