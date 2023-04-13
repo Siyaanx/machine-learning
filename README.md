@@ -1,17 +1,19 @@
 # Class Project : Exploratory and explanatory analysis
-This is a class project to carry out exploratory and explanatory analysis of the dataset contained in the csv file marked "" here.
+This is a class project to carry out exploratory and explanatory analysis of the dataset contained in the csv file marked "booking_of_hotel" here.
 
 # Preamble
 The hotel-booking datasets csv file is uploaded here and it awaits Exploratory Data Analysis in the open-source web application.
+
 Open-source web application used: Jupyter Notebook. 
+
 Refer to the jupyter notebook marked "Exploratory Data Analysis" which contains the codes in performing the analysis as ypu read or implement the steps below.
 
 # Exploratory Data Analysis (EDA)
 The Exploratory Data Analysis enables one to get in-depth understanding of dataset. Typically, EDA is carried out in order to detect any errors, outliers as well as to understand different patterns in the dataset. 
-In performing an EDA on "hotel-booking' dataset, the major steps below were carried out. Refer to the jupyter notebook marked "Exploratory Data Analysis" as you go through the steps.
+In performing an EDA on "booking_of-hotel' dataset, the major steps below were carried out. Refer to the jupyter notebook marked "Exploratory Data Analysis" as you go through the steps.
 
 **STEP 1**
-Loading the libraries and importing datasets. Pandas is used in reading the csv file marked "hotel-booking". Open the jupyter notebook marked "Exploratory Data Analysis" to view.
+Loading the libraries and importing datasets. Pandas is used in reading the csv file marked "booking_of_hotel". Open the jupyter notebook marked "Exploratory Data Analysis" to view.
 
 
 **STEP 2**
