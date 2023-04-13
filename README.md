@@ -4,6 +4,7 @@ This is a class project to carry out explanatory and analysis of the dataset con
 # Preamble
 The hotel-booking datasets csv file is uploaded here and it awaits Exploratory Data Analysis in the open-source web application.
 Open-source web application used: Jupyter Notebook. 
+Refer to the jupyter notebook marked "Exploratory Data Analysis" which contains the codes in performing the analysis as ypu read or implement the steps below.
 
 # Exploratory Data Analysis (EDA)
 The Exploratory Data Analysis enables one to get in-depth understanding of dataset. Typically, EDA is carried out in order to detect any errors, outliers as well as to understand different patterns in the dataset. 
@@ -14,5 +15,18 @@ Loading the libraries and importing datasets. Pandas is used in reading the csv 
 
 
 **STEP 2**
+We check for missing values. 
+
+****Observation: **** From the "booking-of hotel" dataset, some data values are missing in some columns. 
+
+**STEP 3** 
+Now, we visualize the missing values.
+
+**STEP 4** 
+The actual visualization of the dataset answering specific questions.
+
+***1:Finding the correlation between the variables***
+
+
 
 
