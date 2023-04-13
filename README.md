@@ -32,14 +32,22 @@ The actual visualization of the dataset answering specific questions.
 ***3: Visualizing the overall number of stays in week nights in each hotel using barplot.***
 
 ***4: Plotting scatterplot of stays in weekend nights against lead time.***
+
 ***5: Visualizing the number of stays in weekend nights for each hotel using boxplot.***
+
 ***6: Visualizing the number of stays in week nights for each hotel using boxplot
+
 ***7: To know the number of country in the dataset.***
+
 ***8: Visualizing the relationship between country and lead time (the time between the initiation 
 and completion of booking process) using barchart.***
+
 ***9: Findig the relationship between stays on week and weekend nights using scatterplot.***
+
 ***10: Findig the relationship between stays on week nights and the arrival month using Boxplot.***
+
 ***11: Findig the relationship between stays on weekend nights and the arrival month using Boxplot.***
+
 
 # Conclusion
 The preceeding section contains the Exploratory Data Aanalysis (EDA) carried out on the "hostel_booking" dataset. 
