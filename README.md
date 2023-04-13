@@ -4,7 +4,7 @@ This is a class project to carry out exploratory and explanatory analysis of the
 # Preamble
 The hotel-booking datasets csv file is uploaded here and it awaits Exploratory Data Analysis in the open-source web application.
 
-Open-source web application used: Jupyter Notebook. 
+**Open-source web application used:** Jupyter Notebook. 
 
 Refer to the jupyter notebook marked "Exploratory Data Analysis" which contains the codes in performing the analysis as ypu read or implement the steps below.
 
