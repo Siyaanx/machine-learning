@@ -46,11 +46,11 @@ Fiding the correlation between the variables indicates the extent to which they 
 ***8: Visualizing the relationship between country and lead time (the time between the initiation 
 and completion of booking process) using barchart.***
 
-***9: Findig the relationship between stays on week and weekend nights using scatterplot.***
+***9: Finding the relationship between stays on week and weekend nights using scatterplot.***
 
-***10: Findig the relationship between stays on week nights and the arrival month using Boxplot.***
+***10: Finding the relationship between stays on week nights and the arrival month using Boxplot.***
 
-***11: Findig the relationship between stays on weekend nights and the arrival month using Boxplot.***
+***11: Finding the relationship between stays on weekend nights and the arrival month using Boxplot.***
 
 
 # Conclusion
