@@ -8,7 +8,7 @@ Refer to the jupyter notebook marked "Exploratory Data Analysis" which contains 
 
 # Exploratory Data Analysis (EDA)
 The Exploratory Data Analysis enables one to get in-depth understanding of dataset. Typically, EDA is carried out in order to detect any errors, outliers as well as to understand different patterns in the dataset. 
-In performing an EDA on "hotel-booking' dataset, these major steps were carried out.
+In performing an EDA on "hotel-booking' dataset, the major steps below were carried out. Refer to the jupyter notebook marked "Exploratory Data Analysis" as you go through the steps.
 
 **STEP 1**
 Loading the libraries and importing datasets. Pandas is used in reading the csv file marked "hotel-booking". Open the jupyter notebook marked "Exploratory Data Analysis" to view.
@@ -17,7 +17,7 @@ Loading the libraries and importing datasets. Pandas is used in reading the csv 
 **STEP 2**
 We check for missing values. 
 
-****Observation:**** From the "booking-of hotel" dataset, some data values are missing in some columns. 
+****Observation:**** From the "booking-of hotel" dataset, some data values are missing in some cells marked as "NULL". 
 
 **STEP 3** 
 Now, we visualize the missing values.
@@ -25,7 +25,25 @@ Now, we visualize the missing values.
 **STEP 4** 
 The actual visualization of the dataset answering specific questions.
 
-***1:Finding the correlation between the variables***
+***1: Checking for the correlation between the variables***
+***2: Visualizing the overall number of stays in weekend nights in each hotel using barplot***
+***3: Visualizing the overall number of stays in week nights in each hotel using barplot.***
+***4: Plotting scatterplot of stays in weekend nights against lead time.***
+***5: Visualizing the number of stays in weekend nights for each hotel using boxplot.***
+***6: Visualizing the number of stays in week nights for each hotel using boxplot
+***7: To know the number of country in the dataset.***
+***8: Visualizing the relationship between country and lead time (the time between the initiation 
+and completion of booking process) using barchart.***
+***9: Findig the relationship between stays on week and weekend nights using scatterplot.***
+***10: Findig the relationship between stays on week nights and the arrival month using Boxplot.***
+***11: Findig the relationship between stays on weekend nights and the arrival month using Boxplot.***
+
+# Conclusion
+The preceeding section contains the Exploratory Data Aanalysis (EDA) carried out on the "hostel_booking" dataset. 
+Refer to the jupyter notebook marked "Exploratory Data Aanalysis (EDA)" while implementing the steps outlined above on your own.
+
+
+
 
 
 
