@@ -39,7 +39,7 @@ From the visulaization, it is observed that the number of stays on weekend night
 
 From the visulaization, it is observed that the number of stays on week nights in Resort Hotel is higher than that of City Hotel as City hotel's frequency of stays (2.2) is eleven-fifteenth of Resort hotel's (3.0).
 
-Also, by comparing the barplot in (2) and (3), it is oberved that the number of stays on week nights is more than stays on weekend nights for both hostels.
+Also, by comparing the barplots in (2) and (3), it is oberved that the number of stays on week nights is more than stays on weekend nights for both hostels.
 
 ***4: Plotting scatterplot of stays in weekend nights against lead time.***
 
