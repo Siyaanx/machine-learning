@@ -38,25 +38,29 @@ From the visulaization, it is observed that the number of stays on weekend night
 ***3: Visualizing the overall number of stays in week nights in each hotel using barplot.***
 
 From the visulaization, it is observed that the number of stays on week nights in Resort Hotel is higher than that of City Hotel as City hotel's frequency of stays (2.2) is eleven-fifteenth of Resort hotel's (3.0).
+
 Also, by comparing the barplot in (2) and (3), it is oberved that the number of stays on week nights is more than stays on weekend nights for both hostels.
 
 ***4: Plotting scatterplot of stays in weekend nights against lead time.***
 
 Plotting the scatterplots of lead time (the number of days between making hotel reservation and the actual check-in) against the stays on weekend nights, the outliers present are distinguishes clearly and 3 outliers are observed to be extremely far from the rest of the datapoints. 
-Also, this scatterplot shows that lead time against stays on weekend nights does not follow a normal distribution (i.e not dumb-bell shaped).
-Although there are outliers in the set, there is no infinite lead time; meaning that everyone who made a booking in the hotels shows up.
+
+Also, this scatterplot shows that lead time against stays on weekend nights does not follow a normal distribution (i.e not dumb-bell shaped). Although there are outliers in the set, there is no infinite lead time; meaning that everyone who made a booking in the hotels shows up.
 
 ***5: Visualizing the number of stays in weekend nights for each hotel using boxplot.***
 
 Using boxplot to visualize the number of stays on weekend nights for each hotel gives the number of outliers directly since outliers are the datapoints falling outside the fence (minimum and maximum values).So, there are 10 outliers for stays on weekend nights in Resort hotel and 8 outliers for that of City hotel.
+
 Also, lower quartiles for both boxplots are zero (booking).
 
 ***6: Visualizing the number of stays in week nights for each hotel using boxplot.***
 
 As already established, outliers are the datapoints falling outside the minimum and maximum value fence. Hence, there are 19 outliers in the number of stays on week nights in Resort hotel and 22 outliers for that of City hotel. 
+
 Also, these boxplots have their lower quartiles as non-zero positive values differing from the minimum value (of zero booking) unlike the boxplots in 5 (ie., stays on weekend nights for each hotel) having their lower quartiles as zero (booking).  
 
 ***7: To know the number of country in the dataset.***
+
 This shows that there are 177 distinct nationalities in the record.
 
 ***8: Visualizing the relationship between country and lead time (the time between initiation, making hotel reservations 
